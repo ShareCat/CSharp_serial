@@ -1,0 +1,60 @@
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\杜洋C%23资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\杜洋C%23资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\BaiduYunDownload\c#\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SerialCommunicate20160517b增加4个AT指令串口打开后可以动态修改波特率调整外观\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\bread\杜洋视频\C#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\bread\杜洋视频\C#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\BaiduYunDownload\c#\my serial assistant\SerialCommunicate20160518b增加4个AT指令串口打开后可以动态修改波特率调整外观加入中文支持修改字体添加AT指令完成加入收发统计\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
