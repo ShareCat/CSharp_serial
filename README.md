@@ -1,2 +1,7 @@
 # CSharp_serial
-C# serial port
+---
+
+### A serial port tool coding with C#
+---
+
+![Xshell_Appearance](Doc/screenshot.png)
